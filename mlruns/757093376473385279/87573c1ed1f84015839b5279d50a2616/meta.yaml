@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/757093376473385279/87573c1ed1f84015839b5279d50a2616/artifacts
+end_time: 1744035610236
+entry_point_name: ''
+experiment_id: '757093376473385279'
+lifecycle_stage: active
+run_id: 87573c1ed1f84015839b5279d50a2616
+run_name: gifted-duck-466
+run_uuid: 87573c1ed1f84015839b5279d50a2616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744035609953
+status: 3
+tags: []
+user_id: acer

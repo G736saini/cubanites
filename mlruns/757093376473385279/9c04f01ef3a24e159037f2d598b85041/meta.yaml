@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/757093376473385279/9c04f01ef3a24e159037f2d598b85041/artifacts
+end_time: 1744036103441
+entry_point_name: ''
+experiment_id: '757093376473385279'
+lifecycle_stage: active
+run_id: 9c04f01ef3a24e159037f2d598b85041
+run_name: nervous-carp-975
+run_uuid: 9c04f01ef3a24e159037f2d598b85041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744036101989
+status: 3
+tags: []
+user_id: acer
